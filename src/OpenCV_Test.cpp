@@ -19,6 +19,8 @@ imshow("MyWindow", img);
 namedWindow("increasedBrightness", CV_WINDOW_AUTOSIZE);
 imshow("increasedBrightness", imgBright);
 
+//test
+
 waitKey(0);
 return 0;
 }

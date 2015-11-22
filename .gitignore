@@ -42,8 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.project
-.cproject
-.cproject
+#.project
+#.cproject
+#.cproject
 
 Debug/

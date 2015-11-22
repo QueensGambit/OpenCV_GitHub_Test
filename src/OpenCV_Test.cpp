@@ -9,8 +9,7 @@ using namespace cv;
 int main()
 {
 
-Mat img = imread("G:/Gimp/DBV"
-		"/Lenna.png", CV_LOAD_IMAGE_COLOR);
+Mat img = imread("media/Lenna.png", CV_LOAD_IMAGE_COLOR);
 
 namedWindow("MyWindow", CV_WINDOW_AUTOSIZE);
 imshow("MyWindow", img);
